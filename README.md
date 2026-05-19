@@ -37,6 +37,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/marcelo-vieira-gonçalves-saturno-3ba262282)](linkedin.com/in/marcelo-vieira-gonçalves-saturno-3ba262282)
 [![Gmail Badge](https://img.shields.io/badge/-marcelovgoncalves787@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelovgoncalves787@gmail.com)](mailto:marcelovgoncalves787@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/marcelosaturnoo)
